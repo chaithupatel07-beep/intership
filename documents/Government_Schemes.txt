@@ -1,0 +1,35 @@
+# Master Directory of Agricultural Government Schemes & Subsidies (India)
+Document Ref: MOA-SCHEMES-2025-26
+Source: Ministry of Agriculture and Farmers Welfare, Government of India
+
+## 1. Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+- Purpose: Direct income support to landholding farmer families to supplement financial needs for agricultural inputs and domestic obligations.
+- Benefit: Direct benefit transfer (DBT) of ₹6,000 per year, disbursed in three equal installments of ₹2,000 every 4 months directly into Aadhaar-seeded bank accounts.
+- Eligibility: All landholding farmer families with cultivable land in their names. Excludes institutional landholders, tax-paying professionals, constitutional post holders, and retired pensioners with >₹10,000/month pension.
+- Mandatory Requirement: e-KYC via OTP or biometric face authentication on PM-KISAN portal, and Aadhaar-bank account linking.
+
+## 2. Pradhan Mantri Fasal Bima Yojana (PMFBY) - Crop Insurance
+- Purpose: Comprehensive risk insurance against non-preventable natural risks (drought, flood, unseasonal rains, pest epidemics, post-harvest losses within 14 days of cut).
+- Farmer Premium Rates:
+  - Kharif crops (Food & Oilseeds): Maximum 2.0% of Sum Insured.
+  - Rabi crops (Food & Oilseeds): Maximum 1.5% of Sum Insured.
+  - Annual Commercial & Horticultural crops: Maximum 5.0% of Sum Insured.
+  - Balance premium is heavily subsidized by Central and State Governments (50:50).
+- Claim Intimation: Must report crop damage within 72 hours via the Crop Insurance App, National Crop Insurance Portal (NCIP), or local bank/KVK.
+
+## 3. Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - Per Drop More Crop (PDMC)
+- Purpose: Enhancing water use efficiency through Micro Irrigation (Drip & Sprinkler).
+- Financial Assistance:
+  - Small and Marginal Farmers (landholding up to 2 hectares): 55% subsidy of benchmark installation cost.
+  - Other Farmers: 45% subsidy of benchmark installation cost.
+  - Top-up subsidies: Several state governments provide an additional 15-25% top-up, bringing the effective subsidy up to 70-90% for small farmers.
+
+## 4. Paramparagat Krishi Vikas Yojana (PKVY) - Organic Farming
+- Purpose: Promotion of commercial organic farming through cluster formation and PGS (Participatory Guarantee System) certification.
+- Financial Assistance: ₹50,000 per hectare for 3 years, of which ₹31,000/ha is directly provided for organic inputs (bio-fertilizers, vermicompost, botanical extracts, seeds).
+- Target: Cluster size of 20 hectares with 50 or more farmers.
+
+## 5. Kisan Credit Card (KCC) Scheme
+- Purpose: Timely access to short-term credit for cultivation, post-harvest expenses, produce marketing, and working capital for dairy/fisheries.
+- Interest Subvention: Concessional interest rate of 7% per annum for loans up to ₹3,00,000. Prompt repayment incentive provides a further 3% rebate, making effective interest rate only 4% per annum.
+- Collateral-free limit: Up to ₹1.60 lakh without collateral security.

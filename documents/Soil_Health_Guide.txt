@@ -1,0 +1,28 @@
+# National Soil Health & Nutrient Management Guide
+Document Ref: DAHD-SHC-2025-V2
+Source: Department of Agriculture & Farmers Welfare, Ministry of Agriculture, Govt. of India
+
+## 1. Principles of Soil Health Assessment
+Soil health reflects the continuous capacity of soil to function as a vital living ecosystem. A standard Soil Health Card (SHC) tracks 12 critical parameters:
+- Macro-nutrients: Nitrogen (N), Phosphorus (P), Potassium (K).
+- Secondary nutrient: Sulphur (S).
+- Micro-nutrients: Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (B).
+- Physical & Chemical parameters: pH, Electrical Conductivity (EC), Organic Carbon (OC).
+
+## 2. Soil pH Interpretation and Amelioration
+- Strongly Acidic (pH < 5.5): Phosphorus fixation occurs with iron and aluminum. Remedy: Apply agricultural lime (CaCO3) @ 2 to 4 tonnes/ha or dolomite once in 3 years.
+- Neutral to Optimum (pH 6.5 - 7.5): Ideal availability of almost all major and trace nutrients.
+- Alkaline / Calcareous (pH > 8.0): Zinc, iron, and boron become deficient. Remedy: Apply agricultural gypsum (CaSO4.2H2O) @ 2.5 to 5 tonnes/ha based on Gypsum Requirement (GR) test; incorporate green manure (Dhaincha/Sesbania aculeata).
+- Saline Soils (EC > 4.0 dS/m): Excess soluble salts. Remedy: Provide drainage channels, leach with good quality irrigation water, grow salt-tolerant crops like barley, mustard, or cotton.
+
+## 3. Organic Carbon (OC) Management
+- Critical benchmark: Soil Organic Carbon should be > 0.75%. In tropical Indian soils, OC is often low (< 0.5%).
+- Practices to boost OC:
+  - Farmyard Manure (FYM): 10-12 tonnes/ha applied 2-3 weeks prior to sowing.
+  - Vermicompost: 2.5-3 tonnes/ha enriched with Trichoderma and Pseudomonas.
+  - Green Manuring: Grow Sunnhemp (Crotalaria juncea) or Dhaincha and incorporate at 45-50 days before flowering; adds 60-80 kg organic N/ha.
+  - Crop Residue Retention: Avoid stubble burning; incorporate straw using Happy Seeder / Super Seeder machines.
+
+## 4. Soil Testing Protocol for Farmers
+- Sample depth: 0-15 cm for field crops (cereals, pulses, oilseeds); 0-30 cm for horticulture/fruit trees.
+- Pattern: Collect from 8-10 spots in a zig-zag manner across uniform field topography; mix thoroughly, quarter down to 500 grams, dry in shade, and submit to Soil Testing Lab (KVK / District Agri Office).

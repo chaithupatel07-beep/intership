@@ -1,0 +1,32 @@
+# Integrated Pest and Disease Management (IPM) Compendium
+Document Ref: DPPQS-IPM-2025-08
+Source: Directorate of Plant Protection, Quarantine & Storage, Ministry of Agriculture
+
+## 1. Principles of Integrated Pest Management (IPM)
+IPM combines cultural, mechanical, biological, and chemical methods to keep pest populations below the Economic Threshold Level (ETL).
+- Cultural: Crop rotation, trap cropping (e.g., marigold around tomato for fruit borer), summer deep ploughing to expose pupae to birds and solar heat.
+- Mechanical: Hand collection of egg masses, installation of yellow sticky traps (15-20/acre) for sucking pests (whiteflies, aphids, thrips), blue sticky traps for thrips.
+- Biological: Release Trichogramma chilonis egg parasitoids @ 50,000/ha; spray Neem Seed Kernel Extract (NSKE 5%) or Azadirachtin 10,000 ppm @ 2 ml/litre.
+- Chemical: Judicious, targeted application of label-claim insecticides when ETL is crossed.
+
+## 2. Major Pests and Action Thresholds
+### A. Rice Yellow Stem Borer (Scirpophaga incertulas)
+- Symptoms: 'Dead hearts' during vegetative stage, 'white ears' with chaffy grains during reproductive stage.
+- ETL: 1 egg mass/sq.m or 5% dead hearts or 1 moth/sq.m.
+- Control: Pheromone traps @ 8 traps/acre; Trichogramma chilonis @ 100,000/ha; spray Chlorantraniliprole 18.5% SC @ 60 ml/acre or Flubendiamide 39.35% SC @ 20 ml/acre in 200 L water.
+
+### B. Fall Armyworm in Maize (Spodoptera frugiperda)
+- Symptoms: Pinholes on whorl leaves, extensive window pane feeding, sawdust-like frass inside whorls.
+- ETL: 10% damaged plants at seedling stage; 20% at mid-whorl stage.
+- Control: Apply fine sand or wood ash + lime (9:1) into whorls; spray Bacillus thuringiensis (Bt) kurstaki @ 2g/litre; chemical intervention with Emamectin Benzoate 5% SG @ 0.4 g/litre or Spinetoram 11.7% SC @ 0.5 ml/litre directed into whorls.
+
+### C. Cotton Pink Bollworm (Pectinophora gossypiella)
+- Symptoms: Rosette flowers, unseasonal opening of bolls with stained lint, eaten seeds.
+- ETL: 10% damaged green bolls or 8 moths/trap/night for 3 consecutive days.
+- Control: Install delta pheromone traps @ 2/acre for monitoring and 8-10/acre for mass trapping; spray Profenofos 50% EC @ 2 ml/l or Indoxacarb 14.5% SC @ 1 ml/l.
+
+### D. Fungal Diseases: Paddy Blast (Pyricularia oryzae) & Sheath Blight (Rhizoctonia solani)
+- Blast symptoms: Spindle-shaped lesions with grey center and brown margins on leaves; rotting of neck node (neck blast).
+- Control: Tricyclazole 75% WP @ 0.6 g/litre or Isoprothiolane 40% EC @ 1.5 ml/litre.
+- Sheath Blight symptoms: Snake-skin lesions on leaf sheaths near water line.
+- Control: Hexaconazole 5% EC @ 2 ml/litre or Validamycin 3% L @ 2.5 ml/litre.

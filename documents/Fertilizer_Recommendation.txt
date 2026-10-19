@@ -1,0 +1,48 @@
+# Scientific Fertilizer Dosage and Nutrient Management Handbook
+Document Ref: ICAR-FERT-2025-V5
+Source: Indian Agricultural Research Institute (IARI) & Fertilizer Association of India
+
+## 1. Crop-wise Recommended Dose of Fertilizers (RDF in kg/ha N:P2O5:K2O)
+- Paddy (Rice):
+  - Irrigated High Yielding: 120:60:60 kg/ha
+  - Semi-dry / Rainfed: 80:40:40 kg/ha
+  - Basal: 25% N, 100% P, 50% K; Tillering: 50% N; Panicle Initiation: 25% N, 50% K.
+- Maize (Corn):
+  - Hybrid / High Yielding: 150:75:75 kg/ha
+  - Composite: 120:60:40 kg/ha
+  - Basal: 33% N, 100% P, 100% K; Knee-high: 33% N; Tasseling / Silking: 34% N.
+- Cotton:
+  - Hybrid Bt Cotton (Irrigated): 150:75:75 kg/ha
+  - Rainfed: 90:45:45 kg/ha
+  - Split: Basal 20% N + 100% P + 50% K; Squaring: 40% N; Peak Flowering: 40% N + 50% K.
+- Groundnut:
+  - Rainfed / Irrigated: 25:50:75 kg/ha
+  - Calcium & Sulphur: Apply Gypsum @ 400 kg/ha at peg formation (40-45 DAS) for pod development and oil synthesis.
+- Wheat:
+  - Irrigated Timely Sown: 120:60:40 kg/ha
+  - Basal: 50% N, 100% P, 100% K; Crown Root Initiation (21 DAS): 25% N; Jointing (45 DAS): 25% N.
+- Pulses (Chickpea, Pigeonpea, Blackgram):
+  - General RDF: 20:50:20 kg/ha (Starter dose of Nitrogen; rhizobium bacteria fix atmospheric N).
+
+## 2. Converting Element Nutrients to Commercial Bags (per Acre)
+1 Hectare = 2.47 Acres.
+Commercial Fertilizer Compositions:
+- Urea: Contains 46% Nitrogen (N). A 45 kg bag provides 20.7 kg N.
+- DAP (Di-Ammonium Phosphate): Contains 18% N and 46% P2O5. A 50 kg bag provides 9 kg N and 23 kg P2O5.
+- MOP (Muriate of Potash): Contains 60% K2O. A 50 kg bag provides 30 kg K2O.
+- SSP (Single Super Phosphate): Contains 16% P2O5 and 11% Sulphur.
+
+### Standard Calculation Formula:
+To supply X kg of Nitrogen from Urea when DAP is also applied:
+1. P requirement supplied by DAP = Target P2O5 / 0.46
+2. Nitrogen contributed by DAP = DAP kg * 0.18
+3. Balance Nitrogen needed = Target N - Nitrogen from DAP
+4. Urea needed = Balance N / 0.46
+5. MOP needed = Target K2O / 0.60
+
+## 3. Micronutrient Management & Biofertilizers
+- Zinc Deficiency: Spray 0.5% Zinc Sulphate (5g/L) + 0.25% lime or 2% Urea at 30 and 45 DAS.
+- Iron Chlorosis: Spray 1.0% Ferrous Sulphate (10g/L) + 0.1% Citric acid.
+- Biofertilizers:
+  - Azospirillum / Azotobacter: Seed treatment @ 10g/kg or soil application @ 5 kg/ha saves 20-25% chemical Nitrogen.
+  - PSB (Phosphate Solubilizing Bacteria): Solubilizes fixed phosphorus, saving 15-20% chemical Phosphorus.

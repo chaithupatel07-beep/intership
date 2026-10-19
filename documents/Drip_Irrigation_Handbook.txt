@@ -1,0 +1,35 @@
+# Smart Water Management & Precision Drip Irrigation Handbook
+Document Ref: WTC-ICAR-IRRIG-2025
+Source: Water Technology Centre, ICAR & National Mission on Micro Irrigation
+
+## 1. Principles of Precision Irrigation
+Precision irrigation matches water application to crop evapotranspiration (ETc), avoiding deep percolation losses and surface runoff.
+- Drip Irrigation Efficiency: 90-95% water use efficiency compared to 35-40% in traditional flood basin irrigation.
+- Water Savings: 40% to 60% reduction in water consumption with 20% to 35% higher yields due to minimal root stress.
+- Fertigation Advantage: Uniform delivery of water-soluble fertilizers directly to the active root zone, cutting fertilizer losses by 30%.
+
+## 2. Crop-specific Water Requirements and Critical Growth Stages
+- Paddy (Rice):
+  - Total water requirement: 1100 - 1250 mm.
+  - Critical Stages: Panicle initiation to flowering. Water stress at flowering can lead to 40-50% grain sterility.
+  - Water-saving technique: Alternate Wetting and Drying (AWD) using a perforated pani-pipe saves 25% water without yield reduction.
+- Maize (Corn):
+  - Total water requirement: 500 - 600 mm.
+  - Critical Stages: Tasseling, silking, and early grain filling.
+- Cotton:
+  - Total water requirement: 700 - 900 mm.
+  - Critical Stages: Square formation, flowering, and boll development.
+- Groundnut:
+  - Total water requirement: 450 - 550 mm.
+  - Critical Stages: Flowering, pegging, and pod development. Moisture stress at pegging stops peg penetration.
+- Tomato & Vegetables:
+  - Total water requirement: 400 - 600 mm.
+  - Critical Stages: Flowering and fruit set.
+
+## 3. Drip Irrigation System Maintenance Checklist
+- Operating Pressure: Maintain lateral line pressure at 1.0 to 1.2 kg/cm2 (bar).
+- Filter Cleaning:
+  - Sand Media Filter: Backwash daily or when pressure drop exceeds 0.5 kg/cm2.
+  - Screen/Disc Filter: Clean flushing valve after every irrigation cycle.
+- Acid Treatment for Dripper Clogging: If emitters are clogged with calcium/carbonate deposits (hard water), flush laterals with Hydrochloric acid (HCl) @ 0.6% concentration for 24 hours, then flush with clean water.
+- Chlorination: Inject sodium hypochlorite (bleaching powder solution @ 20 ppm) once a month to clear algae and bacterial slime.

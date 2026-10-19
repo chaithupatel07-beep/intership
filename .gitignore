@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment & local database
+.env
+.env.local
+*.sqlite3
+backend/agri_assistant.db
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

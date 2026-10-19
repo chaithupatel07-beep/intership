@@ -1,0 +1,15 @@
+# AgriAI Smart Farming Assistant - Backend Dependencies
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional Database & Vector Support (PostgreSQL + pgvector)
+# psycopg2-binary>=2.9.9
+# pgvector>=0.2.5
+
+# Optional LLM & Embeddings providers
+# google-genai>=0.1.0
+# openai>=1.14.0

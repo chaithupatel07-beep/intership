@@ -1,0 +1,35 @@
+# ICAR Standard Package of Practices: Rice (Paddy) Cultivation Manual
+Document Ref: ICAR-CRRI-2025-ED4
+Source: Indian Council of Agricultural Research (ICAR) & National Rice Research Institute
+
+## 1. Agro-Climatic Requirements
+Paddy is predominantly a tropical crop requiring high temperature, high humidity, and prolonged sunshine. 
+- Optimum temperature: 22°C to 32°C.
+- Soil: Heavy clay loams or silty clay soils with water-retention capacity, pH range 5.5 to 7.5.
+- Rainfall: Requires 1000 mm to 1500 mm rainfall throughout the growth cycle.
+
+## 2. Seed Selection and Nursery Management
+- Certified Seed rate: 20-25 kg/hectare for transplanting; 40-50 kg/hectare for direct-seeded rice (DSR).
+- Seed Treatment: Soak seeds in Carbendazim 2g/kg seed or bio-fungicide Trichoderma viride 10g/kg seed to prevent seed-borne blast and sheath rot.
+- Nursery Preparation: Raised bed nursery of 10 cents (400 sq.m) per hectare of main field. Apply 1 ton FYM (Farmyard Manure) and 2 kg DAP.
+- Seedling Age: Transplant seedlings at 21 to 25 days of age with 2-3 seedlings per hill at a spacing of 20 x 15 cm.
+
+## 3. Nutrient and Fertilizer Management
+For medium-duration high-yielding paddy varieties:
+- Recommended NPK ratio: 120:60:60 kg/ha (High fertility: 100:50:50 kg/ha).
+- Basal Application: Entire Phosphorus (DAP/SSP), 50% Potassium (MOP), and 25% Nitrogen (Urea).
+- First Top Dressing (Active Tillering, 20-25 DAT): 50% Nitrogen.
+- Second Top Dressing (Panicle Initiation, 45-50 DAT): Remaining 25% Nitrogen and remaining 50% Potassium.
+- Zinc Sulphate: Apply 25 kg/ha of ZnSO4 basally in zinc-deficient soils to prevent 'Khaira' disease. Avoid mixing Zinc directly with DAP.
+
+## 4. Water Management and Irrigation
+- Nursery stage: Maintain thin film of water (1-2 cm).
+- Vegetative phase: Maintain 2-3 cm shallow standing water during early tillering.
+- Mid-season aeration: Drain water for 2-3 days at maximum tillering to facilitate root aeration.
+- Flowering to grain filling: Maintain 5 cm water depth.
+- Drainage: Withdraw water completely 10-14 days before harvest to hasten uniform ripening.
+
+## 5. Major Pests and Weed Control
+- Yellow Stem Borer (Scirpophaga incertulas): Causes 'dead heart' at vegetative stage and 'white ear head' at flowering. Management: Install pheromone traps at 5 traps/acre. Spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre or Cartap Hydrochloride 50% SP @ 2g/litre.
+- Brown Plant Hopper (BPH): Hopper burn symptoms. Avoid excessive nitrogen. Spray Pymetrozine 50% WDG @ 0.6 g/l or Triflumezopyrim 10% SC @ 0.48 ml/l.
+- Weed Control: Pre-emergence application of Pretilachlor 50% EC @ 1.5 kg a.i./ha within 3 days after transplanting.
